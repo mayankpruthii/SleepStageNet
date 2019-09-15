@@ -9,6 +9,7 @@ The dataset can be found here https://www.physionet.org/physiobank/database/slee
 Download the datasets one by one in the main folder of the project. 
 
 # Run this model
+The weights of this model are already trained. It will automatically download the weights if not available.
 Type the following command in the console of the project directory.
 
 python main.py 
