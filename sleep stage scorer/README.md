@@ -7,14 +7,12 @@ I followed implementation of the deepsleepnet in keras in tensorflow
 
 ## Requirements
 
-    conda create -n deepsleepnet_keras environment --file requirements.txt
+    conda create -n myenv environment --file requirements.txt
 
 
 ## Data Preparation
 
 Download and getting NPZ file is totally same with original implementation from https://github.com/akaraspt/deepsleepnet .
-
-To get 20 fold cross validation data:
 
     python data_preparation.py
     
