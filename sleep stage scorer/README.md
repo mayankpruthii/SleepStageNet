@@ -4,7 +4,7 @@ original paper : https://arxiv.org/abs/1703.04046
 
 original implementation by the authors : https://github.com/akaraspt/deepsleepnet
 
-I followed implementation of the deepsleepnet in tensorflow into keras (actually keras in tensorflow).
+I followed implementation of the deepsleepnet in keras in tensorflow
 
 ## Requirements
 
