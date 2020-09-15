@@ -23,7 +23,7 @@ To get 20 fold cross validation data:
 
     python trainer.py
     
-The trained model (both featurenet and deepsleepnet) will be stored at the **./weights** as weights.
+The trained model will be stored at the **./weights** as weights.
 
 ## Performance Evaluation
 
