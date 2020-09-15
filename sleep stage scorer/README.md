@@ -1,5 +1,4 @@
-# DeepSleepNet_Implementation_in_Keras
-
+# Sleep Stage Net
 original paper : https://arxiv.org/abs/1703.04046
 
 original implementation by the authors : https://github.com/akaraspt/deepsleepnet
