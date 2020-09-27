@@ -15,17 +15,3 @@ I followed implementation of the deepsleepnet in keras in tensorflow
 Download and getting NPZ file is totally same with original implementation from https://github.com/akaraspt/deepsleepnet .
 
     python data_preparation.py
-    
-## Training
-
-    python trainer.py
-    
-The trained model will be stored at the **./weights** as weights.
-
-## Performance Evaluation
-
-    cat performance.txt
-
-## To Do
-
-* Revise 'data preparation' to split patients. For example, in test set, patients 0 - 10, valid set patients 11 - 12, test set 13 - 14.
